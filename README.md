@@ -32,10 +32,12 @@ I focus on writing **clean, maintainable code** while optimizing **user experien
 
 ## 🚀 Projects
 
-| Project | Demo |
-| ------- | ---- |
-| Cartopia | [Visit](https://cartopia-hup.netlify.app/) |
-| EZY Skills | [Visit](https://ezy-skills.netlify.app/) |
+| Project           | Demo |
+| ------------------| ---- |
+| Cartopia          | [Visit](https://cartopia-hup.netlify.app/) |
+| EZY Skills        | [Visit](https://ezy-skills.netlify.app/) |
+| Ahmed portfolio   | [Visit](https://ahmed-maher-three.vercel.app/) |
+| Elite Gym   | [Visit](https://elite-gym-umber.vercel.app/) |
 
 ---
 
