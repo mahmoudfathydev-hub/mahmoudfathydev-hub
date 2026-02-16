@@ -60,7 +60,7 @@ I focus on writing **clean, maintainable code** while optimizing **user experien
 
 - **Rank:** 6 kyu (Advanced Level)  
 - **Total Completed Kata:** 23+  
-- **Honor Points:** 171  
+- **Honor Points:** 221  
 - **Focus:** JavaScript, Algorithms, Front-End Challenges  
 - **Goal:** Reach 5 kyu and create original kata  
 
