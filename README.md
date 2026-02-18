@@ -15,17 +15,14 @@ I focus on writing **clean, maintainable code** while optimizing **user experien
 
 ## 💻 Technologies & Tools
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/) 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) 
-[![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) 
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)](https://www.framer.com/motion/) 
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)](https://greensock.com/gsap/) 
-[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)  
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+[![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  
+[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)](https://greensock.com/gsap/)  
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)](https://www.framer.com/motion/)  
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 ---
@@ -58,11 +55,13 @@ I focus on writing **clean, maintainable code** while optimizing **user experien
 
 [![CodeWars](https://www.codewars.com/users/mahmoudfathydev-hub/badges/large)](https://www.codewars.com/users/mahmoudfathydev-hub)  
 
-- **Rank:** 6 kyu (Advanced Level)  
-- **Total Completed Kata:** 23+  
-- **Honor Points:** 221  
+- **Rank:** 5 kyu (Advanced Level)  
+- **Total Completed Kata:** 40+  
+- **Honor Points:** 308  
+- **Leaderboard Position:** #284,991  
+- **Honor Percentile:** Top 38.171%  
 - **Focus:** JavaScript, Algorithms, Front-End Challenges  
-- **Goal:** Reach 5 kyu and create original kata  
+- **Goal:** Reach 4 kyu and create original kata  
 
 ---
 
