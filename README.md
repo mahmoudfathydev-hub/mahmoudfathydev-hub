@@ -27,7 +27,7 @@ I focus on writing **clean, maintainable code** while optimizing **user experien
 | **Elite Gym**                 | Gym management platform with dashboards & AI assistant     | [Visit](https://elite-gym-umber.vercel.app/) |
 | **Flame & Bun**               | Restaurant web app with interactive UI & cart              | [Visit](https://flame-bun.vercel.app/) |
 | **Cafe Ramadan**              | Thematic web app with GSAP animations & modern UI          | [Visit](https://cafe-ramadan.vercel.app/) |
-| **Current Portfolio**         | Interactive 3D web experience with Spline & Framer Motion  | [Visit](https://mahmoudfathy.vercel.app/) |
+| **My Portfolio**         | Interactive 3D web experience with Spline & Framer Motion  | [Visit](https://mahmoudfathy.vercel.app/) |
 
 ---
 
