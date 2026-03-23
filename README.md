@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahmoud Fathy
 
-**FrontEnd Developer** specializing in **interactive, high-performance web applications** using **React, Next.js, TypeScript and Tailwind CSS**.  
+**Front_End Developer** specializing in **interactive, high-performance web applications** using **React, Next.js, TypeScript and Tailwind CSS**.  
 I focus on writing **clean, maintainable code** while optimizing **user experience, performance, and modern UI design**
 
 
