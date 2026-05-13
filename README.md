@@ -1,68 +1,107 @@
 # 👋 Hi, I'm Mahmoud Fathy
 
-**Front_End Developer** specializing in **interactive, high-performance web applications** using **React, Next.js, TypeScript , GSAP and Tailwind CSS**.  
-I focus on writing **clean, maintainable code** while optimizing **user experience, performance, and modern UI design**
-
-
-
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-fathy-439293391/)  
-[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@eng_ma7moud_fat7y?is_from_webapp=1&sender_device=pc)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mahmoudfathy.vercel.app/)
+🚀 **Full-Stack Web Developer** specializing in building **scalable, high-performance, and modern web applications** using **React, Next.js, TypeScript, PHP (Laravel), and MySQL**.  
+I focus on delivering **clean architecture, maintainable code, and exceptional user experiences** with performance-first development.
 
 ---
 
-## 💻 Technologies && Tools 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) [![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)](https://www.framer.com/motion/) [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)](https://greensock.com/gsap/) [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+## 🌐 Portfolio & Links
+
+- 🔗 Portfolio: https://ma7moud-fathy.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/mahmoud-fathy-439293391/
+- 🎥 TikTok: https://www.tiktok.com/@eng_ma7moud_fat7y?is_from_webapp=1&sender_device=pc
+
+---
+
+## 🧠 Tech Stack
+
+### Frontend
+- React.js ⚛️
+- Next.js 🚀
+- TypeScript 🟦
+- JavaScript
+- Tailwind CSS
+- SCSS
+- Framer Motion
+- GSAP
+- HTML5 / CSS3
+
+### Backend
+- PHP 🐘
+- Laravel 🔥
+- RESTful APIs
+- Authentication & Authorization (JWT / Sessions)
+- MVC Architecture
+
+### Database
+- MySQL 🗄️
+- Database Design & Optimization
+- Query Optimization & Indexing
+
+### Tools & Workflow
+- Git & GitHub
+- VS Code
+- Figma (UI/UX)
+- Postman
+- Vercel / Netlify / Shared Hosting
+
+---
+
+## 💼 Experience
+
+### 🏢 IGNATRO Labs  
+**Full-Stack Developer**  
+📅 April 2025 – Present  
+
+- Building scalable full-stack web applications using **Laravel + React/Next.js**
+- Developing and maintaining REST APIs and backend systems
+- Designing database architecture using **MySQL**
+- Integrating modern frontend interfaces with robust backend systems
+- Improving performance, scalability, and code maintainability
+- Collaborating with teams to deliver production-ready products
+
 ---
 
 ## 🚀 Projects
 
-| Project                       | Description                                                | Live Demo |
-| ----------------------------- | ---------------------------------------------------------- | --------- |
-| **Cartopia**                  | Modern e-commerce platform with React & Vite               | [Visit](https://cartopia-hup.netlify.app/) |
-| **EZY Skills**                | Interactive EdTech platform with dynamic chatbot           | [Visit](https://ezy-skills.netlify.app/) |
-| **Ahmed Portfolio**           | Professional portfolio with animations & responsive design | [Visit](https://ahmed-maher-three.vercel.app/) |
-| **Elite Gym**                 | Gym management platform with dashboards & AI assistant     | [Visit](https://elite-gym-umber.vercel.app/) |
-| **Flame & Bun**               | Restaurant web app with interactive UI & cart              | [Visit](https://flame-bun.vercel.app/) |
-| **Cafe Ramadan**              | Thematic web app with GSAP animations & modern UI          | [Visit](https://cafe-ramadan.vercel.app/) |
-| **My Portfolio**         | Interactive 3D web experience with Spline & Framer Motion  | [Visit](https://mahmoudfathy.vercel.app/) |
+| Project        | Description                                                        | Live Demo |
+|----------------|--------------------------------------------------------------------|----------|
+| Cartopia       | E-commerce platform built with React & Vite                       | https://cartopia-hup.netlify.app/ |
+| EZY Skills     | EdTech platform with chatbot & interactive learning system        | https://ezy-skills.netlify.app/ |
+| Elite Gym      | Gym management system with dashboard & AI assistant               | https://elite-gym-umber.vercel.app/ |
+| Flame & Bun    | Restaurant web app with cart & modern UI                          | https://flame-bun.vercel.app/ |
+| Cafe Ramadan   | Themed web app with GSAP animations                               | https://cafe-ramadan.vercel.app/ |
+| Portfolio      | 3D interactive portfolio with modern animations                   | https://ma7moud-fathy.vercel.app/ |
+
+---
+
+## ⚔️ CodeWars Profile
+
+[![CodeWars](https://www.codewars.com/users/mahmoudfathydev-hub/badges/large)](https://www.codewars.com/users/mahmoudfathydev-hub)
+
+- Rank: **5 kyu (Advanced)**
+- 40+ Kata Solved
+- Focus: JavaScript & Algorithms
+- Goal: Reach 4 kyu & build custom kata
+
+---
+
+## 📊 Highlights
+
+- ⚡ Performance optimization (Core Web Vitals improvements)
+- 🧠 Clean Architecture & scalable backend systems
+- 🎨 Modern UI/UX with animations & interactive experiences
+- 🚀 Full-stack integration (Frontend + Backend + Database)
+- 📱 Mobile-first responsive design
+- 🧩 Code splitting, lazy loading, and optimized bundles
 
 ---
 
 ## 🎯 About Me
 
-- Passionate about building **scalable, interactive, and high-performance web apps**  
-- Experienced with **state management, lazy loading, code splitting, and modern animations**  
-- Skilled in **UI/UX design, responsive layouts, and 3D/interactive experiences**  
-- Dedicated to **performance optimization** (Core Web Vitals, bundle size, GPU animations)  
-- Daily problem solver on **CodeWars** for algorithms and JavaScript mastery  
+I’m a **Full-Stack Developer** passionate about building **real-world, production-level applications** that combine strong backend logic with smooth and interactive frontend experiences.  
+I enjoy solving problems, optimizing performance, and turning ideas into scalable digital products.
 
 ---
 
-## ⚔️ CodeWars Achievements
-
-[![CodeWars](https://www.codewars.com/users/mahmoudfathydev-hub/badges/large)](https://www.codewars.com/users/mahmoudfathydev-hub)  
-
-- **Rank:** 5 kyu (Advanced Level)  
-- **Total Completed Kata:** 40+  
-- **Honor Points:** 309 
-- **Leaderboard Position:** #284,991  
-- **Honor Percentile:** Top 38.171%  
-- **Focus:** JavaScript, Algorithms, Front-End Challenges  
-- **Goal:** Reach 4 kyu and create original kata  
-
----
-
-## 📈 Front-End Performance Highlights
-
-- 78% build time reduction with **Turbopack**  
-- GPU-accelerated animations with **Framer Motion & GSAP**  
-- Optimized **Core Web Vitals** (LCP, INP, CLS)  
-- Mobile-first design and responsive layouts  
-- Code splitting, lazy loading, and skeleton loaders for fast UX  
-
----
-
-> "I craft modern, interactive, and high-performance front-end experiences using the latest technologies, clean code, and performance-first design."
+> "Building software is not just about code — it's about crafting systems that scale, perform, and deliver value."
