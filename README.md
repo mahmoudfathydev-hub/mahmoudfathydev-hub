@@ -34,7 +34,7 @@ I'm a **Full-Stack Web Developer** specializing in building **scalable, high-per
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,scss,framer,threejs,php,laravel,mysql,postman,git,github,vscode,vercel,netlify,figma" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,scss,threejs,php,laravel,mysql,postman,git,github,vscode,vercel,netlify,figma" alt="Tech Stack Icons" />
 </div>
 
 <br/>
@@ -53,10 +53,7 @@ I'm a **Full-Stack Web Developer** specializing in building **scalable, high-per
 
 ### 📊 GitHub Productivity
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudfathydev-hub&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudfathydev-hub&layout=compact&theme=react&hide_langs_below=1" />
-</p>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudfathydev-hub&theme=react&hide_border=true" />
