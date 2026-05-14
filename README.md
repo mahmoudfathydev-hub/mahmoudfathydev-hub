@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mahmoud+Fathy;Frontend+Software+Engineer;Full-Stack+Web+Developer;Next.js+%26+TypeScript+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mahmoud+Fathy;Frontend+Software+Engineer;Full-Stack+Web+Developer;Next.js+%26+TypeScript+Specialist" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,6 +14,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoudfathydev-hub&color=blue&style=flat-square" alt="Visitor Counter" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -22,75 +26,77 @@ I'm a **Full-Stack Web Developer** specializing in building **scalable, high-per
 
 - 🏢 Currently working at **IGNATRO Labs** as a Full-Stack Developer.
 - 🎓 Specialized in **Next.js, TypeScript, React, Laravel, and MySQL**.
-- ⚡ Performance enthusiast (Core Web Vitals & Lighthouse optimization).
+- ⚡ Performance enthusiast (**97+ Lighthouse score** achieved on key projects).
 - 🧩 Passionate about **Clean Architecture** and scalable backend systems.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,scss,framer,threejs" alt="Frontend Icons" /><br/>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postman,git,github,vscode,vercel,netlify,figma" alt="Backend & Tools Icons" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,scss,framer,threejs,php,laravel,mysql,postman,git,github,vscode,vercel,netlify,figma" alt="Tech Stack Icons" />
+</div>
 
-#### 🎨 Frontend
-React.js, Next.js, TypeScript, Tailwind CSS, SCSS, Framer Motion, GSAP.
+<br/>
 
-#### ⚙️ Backend & Database
-PHP, Laravel, RESTful APIs, MySQL, Database Design & Optimization.
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudfathydev-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudfathydev-hub&layout=compact&theme=tokyonight&hide_langs_below=1" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudfathydev-hub&theme=tokyonight" />
-</p>
+<details>
+  <summary><b>View Detailed Skills</b></summary>
+  <ul>
+    <li><b>Frontend:</b> React.js, Next.js, Redux Toolkit, Framer Motion, GSAP, Tailwind CSS, SCSS.</li>
+    <li><b>Backend:</b> PHP, Laravel (MVC), RESTful APIs, JWT/Sessions Authentication.</li>
+    <li><b>Database:</b> MySQL, Database Design & Query Optimization.</li>
+    <li><b>Tools:</b> Git, GitHub, VS Code, Postman, Figma, Vercel, Netlify.</li>
+  </ul>
+</details>
 
 ---
 
-### ⚔️ CodeWars Stats
+### 📊 GitHub Productivity
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudfathydev-hub&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudfathydev-hub&layout=compact&theme=react&hide_langs_below=1" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudfathydev-hub&theme=react&hide_border=true" />
+</p>
+
+---
+
+### ⚔️ CodeWars Mastery
 
 <p align="center">
   <a href="https://www.codewars.com/users/mahmoudfathydev-hub">
-    <img src="https://www.codewars.com/users/mahmoudfathydev-hub/badges/large" alt="CodeWars" />
+    <img src="https://www.codewars.com/users/mahmoudfathydev-hub/badges/large" alt="CodeWars Stats" />
   </a>
 </p>
-
-- **Rank:** 5 kyu (Advanced)
-- **Goal:** Reach 4 kyu & build custom kata.
 
 ---
 
 ### 💼 Career Highlights
 
 - **Full-Stack Developer @ IGNATRO Labs** (April 2025 - Present)
-  - Building scalable full-stack applications with Laravel + React/Next.js.
-  - Designing robust database architectures and REST APIs.
-- **Performance Specialist**
-  - Optimized projects to achieve up to **97 Lighthouse score**.
-  - Focus on code splitting, lazy loading, and optimized bundles.
+  - Developing production-ready systems using **Laravel + Next.js**.
+  - Integrating robust backend logic with interactive frontend interfaces.
+- **Freelance / Project Lead**
+  - Built scalable SaaS platforms and high-performance dashboards.
+  - Consistent focus on **Core Web Vitals** and user-centric design.
 
 ---
 
 ### 📂 Featured Projects
 
-| Project | Tech Stack | Demo |
+| Project | Description | Demo |
 | :-- | :-- | :-- |
-| **Cartopia** | React, Vite | [Live Demo](https://cartopia-hup.netlify.app/) |
-| **EZY Skills** | Next.js, Chatbot | [Live Demo](https://ezy-skills.netlify.app/) |
-| **Elite Gym** | React, AI Assistant | [Live Demo](https://elite-gym-umber.vercel.app/) |
-| **Flame & Bun** | React, Modern UI | [Live Demo](https://flame-bun.vercel.app/) |
-| **Portfolio** | 3D, GSAP, Next.js | [Live Demo](https://ma7moud-fathy.vercel.app/) |
+| **Cartopia** | Premium E-commerce Platform (React & Vite) | [Explore](https://cartopia-hup.netlify.app/) |
+| **EZY Skills** | EdTech with Interactive Chatbot | [Explore](https://ezy-skills.netlify.app/) |
+| **Elite Gym** | Gym Management System with AI Assistant | [Explore](https://elite-gym-umber.vercel.app/) |
+| **Flame & Bun** | Restaurant Web App with Modern UI | [Explore](https://flame-bun.vercel.app/) |
+| **Portfolio** | 3D Interactive Portfolio (Next.js & GSAP) | [Explore](https://ma7moud-fathy.vercel.app/) |
 
 ---
 
-<p align="center">
+<div align="center">
   <i>"Building software is not just about code — it's about crafting systems that scale, perform, and deliver value."</i>
-</p>
+</div>
